@@ -7,7 +7,4 @@ The architecture is comprised of two models. The generator that we are intereste
 It can be challenging to understand how a GAN is trained and exactly how to understand and implement the loss function for the generator and discriminator models.
 
 
-This Code is implemented by
-G.Anusha
-Supritha K R
-Koustuba 
+
